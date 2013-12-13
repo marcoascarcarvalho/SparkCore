@@ -1,0 +1,4 @@
+SparkCore
+=========
+
+Clone do SparkCore
